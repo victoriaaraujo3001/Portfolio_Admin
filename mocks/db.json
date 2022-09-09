@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Victoria",
+      "login": "vic.adm",
+      "password": "admin123"
+    },
+    {
+      "id": 2,
+      "name": "Gabriel",
+      "login": "gab.adm",
+      "password": "admin30"
+    },
+    {
+      "id": 3,
+      "name": "Teste",
+      "login": "teste.adm",
+      "password": "admin123"
+    },
+    {
+      "id": 4,
+      "name": "Davi",
+      "login": "davi.adm",
+      "password": "admin159"
+    }
+  ]
+}
